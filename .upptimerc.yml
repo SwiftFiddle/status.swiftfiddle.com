@@ -48,6 +48,8 @@ sites:
     headers:
       - "Content-Type: application/json"
     body: '{ "code": "func hello() { print(\"Hello World!!\") }\nhello()", "_color": true }'
+  - name: power-assert.swiftfiddle.com
+    url: https://power-assert.swiftfiddle.com/
 
 status-website:
   cname: status.swiftfiddle.com
