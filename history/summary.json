@@ -77,11 +77,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
     "status": "up",
-    "uptime": "95.44%",
+    "uptime": "95.56%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "95.44%",
-    "uptimeMonth": "95.44%",
-    "uptimeYear": "95.44%",
+    "uptimeWeek": "95.56%",
+    "uptimeMonth": "95.56%",
+    "uptimeYear": "95.56%",
     "time": 2694,
     "timeDay": 3801,
     "timeWeek": 2694,
@@ -115,9 +115,9 @@
     "url": "https://power-assert.swiftfiddle.com/",
     "icon": "https://icons.duckduckgo.com/ip3/power-assert.swiftfiddle.com.ico",
     "slug": "power-assert-swiftfiddle-com",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -126,6 +126,8 @@
     "timeWeek": 312,
     "timeMonth": 312,
     "timeYear": 312,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-15": 0
+    }
   }
 ]
