@@ -22,19 +22,19 @@
     "url": "https://swiftfiddle.com/lang-server/health",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-lang-server",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.97%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 181,
-    "timeDay": 2555,
-    "timeWeek": 760,
-    "timeMonth": 209,
-    "timeYear": 181,
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "98.98%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.97%",
+    "time": 178,
+    "timeDay": 1725,
+    "timeWeek": 673,
+    "timeMonth": 204,
+    "timeYear": 178,
     "dailyMinutesDown": {
-      "2023-06-16": 1
+      "2023-06-16": 15
     }
   },
   {
