@@ -1,7 +1,7 @@
 url: https://swiftfiddle.com/runner/5.8/run
-status: up
-code: 200
-responseTime: 9290
-lastUpdated: 2023-08-12T17:46:42.965Z
+status: down
+code: 504
+responseTime: 5046
+lastUpdated: 2023-08-12T22:26:29.113Z
 startTime: Fri May 12 2023 10:28:50 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
