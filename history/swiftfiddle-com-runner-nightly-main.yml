@@ -1,7 +1,7 @@
 url: https://swiftfiddle.com/runner/nightly-main/run
-status: down
-code: 502
-responseTime: 39
-lastUpdated: 2023-09-10T15:26:23.698Z
+status: up
+code: 200
+responseTime: 21210
+lastUpdated: 2023-09-10T15:46:50.974Z
 startTime: 2023-05-12T10:28:40.000Z
 generator: Upptime <https://github.com/upptime/upptime>
