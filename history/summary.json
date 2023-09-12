@@ -184,9 +184,9 @@
     "url": "https://power-assert.swiftfiddle.com/",
     "icon": "https://icons.duckduckgo.com/ip3/power-assert.swiftfiddle.com.ico",
     "slug": "power-assert-swiftfiddle-com",
-    "status": "up",
+    "status": "down",
     "uptime": "99.98%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
@@ -196,6 +196,7 @@
     "timeMonth": 243,
     "timeYear": 290,
     "dailyMinutesDown": {
+      "2023-09-12": 0,
       "2023-07-05": 18,
       "2023-05-15": 26
     }
