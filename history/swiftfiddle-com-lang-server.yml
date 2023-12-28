@@ -1,7 +1,7 @@
 url: https://swiftfiddle.com/lang-server/health
-status: down
-code: 504
-responseTime: 5067
-lastUpdated: 2023-12-28T23:26:38.023Z
+status: up
+code: 200
+responseTime: 63
+lastUpdated: 2023-12-28T23:46:14.258Z
 startTime: 2023-05-12T10:28:39.000Z
 generator: Upptime <https://github.com/upptime/upptime>
