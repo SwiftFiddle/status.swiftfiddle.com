@@ -51,19 +51,19 @@
     "url": "https://swiftfiddle.com/runner/nightly-main/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-nightly-main",
-    "status": "up",
-    "uptime": "98.32%",
-    "uptimeDay": "83.00%",
-    "uptimeWeek": "68.98%",
+    "status": "down",
+    "uptime": "98.33%",
+    "uptimeDay": "82.92%",
+    "uptimeWeek": "68.97%",
     "uptimeMonth": "92.73%",
-    "uptimeYear": "98.32%",
+    "uptimeYear": "98.33%",
     "time": 8763,
     "timeDay": 26418,
     "timeWeek": 24263,
     "timeMonth": 18991,
     "timeYear": 8763,
     "dailyMinutesDown": {
-      "2023-12-30": 201,
+      "2023-12-30": 202,
       "2023-12-29": 91,
       "2023-12-28": 170,
       "2023-12-27": 273,
@@ -100,8 +100,7 @@
       "2023-08-17": 544,
       "2023-08-10": 18,
       "2023-07-24": 18,
-      "2023-06-21": 18,
-      "2023-06-03": 19
+      "2023-06-21": 18
     }
   },
   {
