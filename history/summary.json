@@ -13,7 +13,7 @@
     "time": 270,
     "timeDay": 305,
     "timeWeek": 242,
-    "timeMonth": 272,
+    "timeMonth": 268,
     "timeYear": 270,
     "dailyMinutesDown": {
       "2023-12-21": 20,
@@ -35,7 +35,7 @@
     "time": 154,
     "timeDay": 67,
     "timeWeek": 604,
-    "timeMonth": 204,
+    "timeMonth": 198,
     "timeYear": 154,
     "dailyMinutesDown": {
       "2023-12-28": 20,
@@ -53,14 +53,14 @@
     "slug": "swiftfiddle-com-runner-nightly-main",
     "status": "up",
     "uptime": "98.31%",
-    "uptimeDay": "75.06%",
+    "uptimeDay": "76.38%",
     "uptimeWeek": "68.19%",
     "uptimeMonth": "92.41%",
     "uptimeYear": "98.31%",
     "time": 8996,
-    "timeDay": 28775,
+    "timeDay": 28715,
     "timeWeek": 24765,
-    "timeMonth": 19684,
+    "timeMonth": 19540,
     "timeYear": 8996,
     "dailyMinutesDown": {
       "2023-12-30": 340,
@@ -114,7 +114,7 @@
     "time": 7203,
     "timeDay": 28832,
     "timeWeek": 22743,
-    "timeMonth": 13569,
+    "timeMonth": 13424,
     "timeYear": 7203,
     "dailyMinutesDown": {
       "2023-12-29": 24,
@@ -174,7 +174,7 @@
     "time": 6205,
     "timeDay": 28981,
     "timeWeek": 21530,
-    "timeMonth": 12378,
+    "timeMonth": 12231,
     "timeYear": 6205,
     "dailyMinutesDown": {
       "2023-12-29": 30,
@@ -234,7 +234,7 @@
     "time": 5168,
     "timeDay": 7487,
     "timeWeek": 12067,
-    "timeMonth": 8560,
+    "timeMonth": 8472,
     "timeYear": 5168,
     "dailyMinutesDown": {
       "2023-12-28": 71,
