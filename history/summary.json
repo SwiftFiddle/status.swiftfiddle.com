@@ -54,8 +54,8 @@
     "status": "down",
     "uptime": "97.54%",
     "uptimeDay": "1.96%",
-    "uptimeWeek": "53.21%",
-    "uptimeMonth": "82.52%",
+    "uptimeWeek": "53.10%",
+    "uptimeMonth": "82.50%",
     "uptimeYear": "97.54%",
     "time": 10799,
     "timeDay": 29979,
@@ -63,7 +63,7 @@
     "timeMonth": 23238,
     "timeYear": 10799,
     "dailyMinutesDown": {
-      "2024-01-05": 802,
+      "2024-01-05": 814,
       "2024-01-04": 1391,
       "2024-01-03": 1045,
       "2024-01-02": 591,
@@ -98,10 +98,10 @@
     "url": "https://swiftfiddle.com/runner/5.8/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-8",
-    "status": "up",
+    "status": "down",
     "uptime": "98.90%",
-    "uptimeDay": "54.62%",
-    "uptimeWeek": "88.92%",
+    "uptimeDay": "54.49%",
+    "uptimeWeek": "88.90%",
     "uptimeMonth": "96.66%",
     "uptimeYear": "98.90%",
     "time": 9019,
@@ -110,7 +110,7 @@
     "timeMonth": 20925,
     "timeYear": 9019,
     "dailyMinutesDown": {
-      "2024-01-05": 511,
+      "2024-01-05": 513,
       "2024-01-04": 239,
       "2024-01-03": 223,
       "2024-01-02": 51,
@@ -151,7 +151,7 @@
       "2023-07-13": 126,
       "2023-06-26": 33,
       "2023-06-25": 61,
-      "2023-06-17": 38
+      "2023-06-17": 21
     }
   },
   {
@@ -159,9 +159,9 @@
     "url": "https://swiftfiddle.com/runner/5.7.3/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
-    "status": "up",
+    "status": "down",
     "uptime": "99.05%",
-    "uptimeDay": "90.84%",
+    "uptimeDay": "90.82%",
     "uptimeWeek": "97.57%",
     "uptimeMonth": "98.85%",
     "uptimeYear": "99.05%",
@@ -215,7 +215,7 @@
       "2023-06-07": 183,
       "2023-05-15": 23,
       "2023-05-13": 46,
-      "2023-05-12": 53
+      "2023-05-12": 27
     }
   },
   {
