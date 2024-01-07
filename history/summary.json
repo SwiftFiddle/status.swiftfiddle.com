@@ -52,18 +52,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-nightly-main",
     "status": "down",
-    "uptime": "96.70%",
+    "uptime": "96.69%",
     "uptimeDay": "0.00%",
-    "uptimeWeek": "28.00%",
-    "uptimeMonth": "75.75%",
-    "uptimeYear": "96.70%",
+    "uptimeWeek": "27.73%",
+    "uptimeMonth": "75.68%",
+    "uptimeYear": "96.69%",
     "time": 10776,
     "timeDay": 62,
     "timeWeek": 28265,
     "timeMonth": 23432,
     "timeYear": 10776,
     "dailyMinutesDown": {
-      "2024-01-07": 891,
+      "2024-01-07": 918,
       "2024-01-06": 1440,
       "2024-01-05": 1440,
       "2024-01-04": 1391,
@@ -100,10 +100,10 @@
     "url": "https://swiftfiddle.com/runner/5.8/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-8",
-    "status": "up",
+    "status": "down",
     "uptime": "98.53%",
-    "uptimeDay": "36.43%",
-    "uptimeWeek": "68.67%",
+    "uptimeDay": "38.18%",
+    "uptimeWeek": "68.65%",
     "uptimeMonth": "91.94%",
     "uptimeYear": "98.53%",
     "time": 10088,
@@ -112,7 +112,7 @@
     "timeMonth": 23250,
     "timeYear": 10088,
     "dailyMinutesDown": {
-      "2024-01-07": 543,
+      "2024-01-07": 545,
       "2024-01-06": 996,
       "2024-01-05": 1037,
       "2024-01-04": 239,
@@ -146,7 +146,7 @@
       "2023-08-17": 480,
       "2023-08-16": 164,
       "2023-08-13": 30,
-      "2023-08-12": 60
+      "2023-08-12": 40
     }
   },
   {
@@ -154,9 +154,9 @@
     "url": "https://swiftfiddle.com/runner/5.7.3/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
-    "status": "up",
+    "status": "down",
     "uptime": "98.99%",
-    "uptimeDay": "82.20%",
+    "uptimeDay": "82.18%",
     "uptimeWeek": "91.60%",
     "uptimeMonth": "97.40%",
     "uptimeYear": "98.99%",
@@ -206,8 +206,7 @@
       "2023-07-24": 16,
       "2023-07-13": 127,
       "2023-06-26": 62,
-      "2023-06-25": 61,
-      "2023-06-15": 19
+      "2023-06-25": 61
     }
   },
   {
