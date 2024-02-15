@@ -53,11 +53,11 @@
     "url": "https://swiftfiddle.com/runner/nightly-main/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-nightly-main",
-    "status": "up",
+    "status": "down",
     "uptime": "99.11%",
-    "uptimeDay": "77.15%",
-    "uptimeWeek": "96.19%",
-    "uptimeMonth": "91.81%",
+    "uptimeDay": "77.07%",
+    "uptimeWeek": "96.18%",
+    "uptimeMonth": "91.85%",
     "uptimeYear": "99.11%",
     "time": 13018,
     "timeDay": 27137,
@@ -65,7 +65,7 @@
     "timeMonth": 16518,
     "timeYear": 13018,
     "dailyMinutesDown": {
-      "2024-02-15": 282,
+      "2024-02-15": 283,
       "2024-02-14": 101,
       "2024-02-04": 413,
       "2024-02-03": 381,
@@ -81,7 +81,7 @@
       "2024-01-24": 108,
       "2024-01-23": 145,
       "2024-01-22": 219,
-      "2024-01-21": 89
+      "2024-01-21": 73
     }
   },
   {
@@ -93,7 +93,7 @@
     "uptime": "88.93%",
     "uptimeDay": "80.11%",
     "uptimeWeek": "96.20%",
-    "uptimeMonth": "33.91%",
+    "uptimeMonth": "33.94%",
     "uptimeYear": "88.93%",
     "time": 10721,
     "timeDay": 28669,
@@ -175,7 +175,7 @@
     "uptime": "90.03%",
     "uptimeDay": "93.95%",
     "uptimeWeek": "98.58%",
-    "uptimeMonth": "34.46%",
+    "uptimeMonth": "34.49%",
     "uptimeYear": "90.03%",
     "time": 10268,
     "timeDay": 28134,
@@ -259,7 +259,7 @@
     "timeMonth": 7419,
     "timeYear": 5436,
     "dailyMinutesDown": {
-      "2024-02-15": 1101,
+      "2024-02-15": 1113,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
