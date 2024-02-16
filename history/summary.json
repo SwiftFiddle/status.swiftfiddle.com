@@ -55,17 +55,17 @@
     "slug": "swiftfiddle-com-runner-nightly-main",
     "status": "up",
     "uptime": "99.09%",
-    "uptimeDay": "73.95%",
-    "uptimeWeek": "92.73%",
-    "uptimeMonth": "91.65%",
+    "uptimeDay": "74.95%",
+    "uptimeWeek": "92.87%",
+    "uptimeMonth": "91.61%",
     "uptimeYear": "99.09%",
     "time": 13268,
     "timeDay": 28101,
     "timeWeek": 25628,
-    "timeMonth": 17154,
+    "timeMonth": 17113,
     "timeYear": 13268,
     "dailyMinutesDown": {
-      "2024-02-16": 289,
+      "2024-02-16": 275,
       "2024-02-15": 341,
       "2024-02-14": 101,
       "2024-02-04": 413,
@@ -81,7 +81,7 @@
       "2024-01-25": 82,
       "2024-01-24": 108,
       "2024-01-23": 145,
-      "2024-01-22": 31
+      "2024-01-22": 60
     }
   },
   {
@@ -91,9 +91,9 @@
     "slug": "swiftfiddle-com-runner-5-8",
     "status": "up",
     "uptime": "88.96%",
-    "uptimeDay": "81.19%",
+    "uptimeDay": "81.30%",
     "uptimeWeek": "94.19%",
-    "uptimeMonth": "36.21%",
+    "uptimeMonth": "36.26%",
     "uptimeYear": "88.96%",
     "time": 11143,
     "timeDay": 28338,
@@ -166,11 +166,11 @@
     "url": "https://swiftfiddle.com/runner/5.7.3/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
-    "status": "up",
+    "status": "down",
     "uptime": "90.06%",
-    "uptimeDay": "91.95%",
-    "uptimeWeek": "97.74%",
-    "uptimeMonth": "37.03%",
+    "uptimeDay": "91.91%",
+    "uptimeWeek": "97.73%",
+    "uptimeMonth": "37.07%",
     "uptimeYear": "90.06%",
     "time": 10426,
     "timeDay": 27982,
@@ -232,7 +232,7 @@
       "2023-10-02": 54,
       "2023-09-27": 17,
       "2023-09-26": 121,
-      "2023-09-25": 92
+      "2023-09-25": 64
     }
   },
   {
@@ -252,7 +252,7 @@
     "timeMonth": 7411,
     "timeYear": 5440,
     "dailyMinutesDown": {
-      "2024-02-16": 871,
+      "2024-02-16": 890,
       "2024-02-15": 1440,
       "2024-02-14": 1440,
       "2024-02-13": 1440,
