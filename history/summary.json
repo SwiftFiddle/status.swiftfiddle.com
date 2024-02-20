@@ -53,11 +53,11 @@
     "url": "https://swiftfiddle.com/runner/nightly-main/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-nightly-main",
-    "status": "up",
+    "status": "down",
     "uptime": "98.91%",
-    "uptimeDay": "40.86%",
-    "uptimeWeek": "67.06%",
-    "uptimeMonth": "89.77%",
+    "uptimeDay": "40.63%",
+    "uptimeWeek": "67.02%",
+    "uptimeMonth": "89.82%",
     "uptimeYear": "98.91%",
     "time": 14457,
     "timeDay": 27007,
@@ -65,7 +65,7 @@
     "timeMonth": 19979,
     "timeYear": 14457,
     "dailyMinutesDown": {
-      "2024-02-20": 639,
+      "2024-02-20": 642,
       "2024-02-19": 579,
       "2024-02-18": 678,
       "2024-02-17": 484,
@@ -75,7 +75,7 @@
       "2024-02-04": 413,
       "2024-02-03": 381,
       "2024-02-02": 295,
-      "2024-02-01": 73
+      "2024-02-01": 46
     }
   },
   {
@@ -85,8 +85,8 @@
     "slug": "swiftfiddle-com-runner-5-8",
     "status": "down",
     "uptime": "88.94%",
-    "uptimeDay": "47.37%",
-    "uptimeWeek": "74.41%",
+    "uptimeDay": "46.32%",
+    "uptimeWeek": "74.26%",
     "uptimeMonth": "44.90%",
     "uptimeYear": "88.94%",
     "time": 13174,
@@ -95,7 +95,7 @@
     "timeMonth": 26226,
     "timeYear": 13174,
     "dailyMinutesDown": {
-      "2024-02-20": 536,
+      "2024-02-20": 551,
       "2024-02-19": 631,
       "2024-02-18": 524,
       "2024-02-17": 294,
@@ -143,12 +143,12 @@
     "url": "https://swiftfiddle.com/runner/5.7.3/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
-    "status": "up",
-    "uptime": "90.19%",
-    "uptimeDay": "76.00%",
+    "status": "down",
+    "uptime": "90.20%",
+    "uptimeDay": "75.97%",
     "uptimeWeek": "89.47%",
-    "uptimeMonth": "48.47%",
-    "uptimeYear": "90.19%",
+    "uptimeMonth": "48.50%",
+    "uptimeYear": "90.20%",
     "time": 11683,
     "timeDay": 28732,
     "timeWeek": 27943,
@@ -194,8 +194,7 @@
       "2024-01-07": 213,
       "2024-01-06": 259,
       "2024-01-05": 335,
-      "2024-01-04": 72,
-      "2024-01-03": 20
+      "2024-01-04": 72
     }
   },
   {
@@ -215,7 +214,7 @@
     "timeMonth": 7269,
     "timeYear": 5440,
     "dailyMinutesDown": {
-      "2024-02-20": 983,
+      "2024-02-20": 998,
       "2024-02-19": 1440,
       "2024-02-18": 1440,
       "2024-02-17": 1440,
