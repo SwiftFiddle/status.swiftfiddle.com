@@ -55,19 +55,19 @@
     "url": "https://swiftfiddle.com/runner/nightly-main/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-nightly-main",
-    "status": "up",
-    "uptime": "98.39%",
-    "uptimeDay": "6.72%",
-    "uptimeWeek": "80.67%",
-    "uptimeMonth": "84.44%",
-    "uptimeYear": "98.39%",
+    "status": "down",
+    "uptime": "98.41%",
+    "uptimeDay": "7.48%",
+    "uptimeWeek": "80.63%",
+    "uptimeMonth": "84.43%",
+    "uptimeYear": "98.41%",
     "time": 14634,
     "timeDay": 29119,
     "timeWeek": 22582,
     "timeMonth": 23800,
     "timeYear": 14634,
     "dailyMinutesDown": {
-      "2024-03-12": 913,
+      "2024-03-12": 916,
       "2024-03-11": 781,
       "2024-03-09": 216,
       "2024-03-07": 19,
@@ -84,7 +84,7 @@
       "2024-02-16": 496,
       "2024-02-15": 341,
       "2024-02-14": 101,
-      "2024-02-04": 252
+      "2024-02-04": 174
     }
   },
   {
@@ -92,19 +92,19 @@
     "url": "https://swiftfiddle.com/runner/5.8/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-8",
-    "status": "up",
-    "uptime": "89.75%",
-    "uptimeDay": "23.45%",
-    "uptimeWeek": "85.23%",
+    "status": "down",
+    "uptime": "89.79%",
+    "uptimeDay": "24.31%",
+    "uptimeWeek": "85.21%",
     "uptimeMonth": "90.06%",
-    "uptimeYear": "89.75%",
+    "uptimeYear": "89.79%",
     "time": 13666,
     "timeDay": 28818,
     "timeWeek": 25945,
     "timeMonth": 25095,
     "timeYear": 13666,
     "dailyMinutesDown": {
-      "2024-03-12": 750,
+      "2024-03-12": 752,
       "2024-03-11": 588,
       "2024-03-10": 25,
       "2024-03-09": 128,
@@ -149,7 +149,7 @@
       "2024-01-09": 1440,
       "2024-01-08": 1124,
       "2024-01-07": 1003,
-      "2024-01-06": 214
+      "2024-01-06": 52
     }
   },
   {
@@ -157,11 +157,11 @@
     "url": "https://swiftfiddle.com/runner/5.7.3/run",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com-runner-5-7",
-    "status": "up",
+    "status": "down",
     "uptime": "90.79%",
-    "uptimeDay": "50.55%",
+    "uptimeDay": "50.54%",
     "uptimeWeek": "90.31%",
-    "uptimeMonth": "94.75%",
+    "uptimeMonth": "94.74%",
     "uptimeYear": "90.79%",
     "time": 12382,
     "timeDay": 28834,
@@ -210,8 +210,7 @@
       "2024-01-11": 1339,
       "2024-01-10": 1364,
       "2024-01-09": 950,
-      "2024-01-08": 751,
-      "2024-01-07": 16
+      "2024-01-08": 751
     }
   },
   {
@@ -231,7 +230,7 @@
     "timeMonth": 7673,
     "timeYear": 5566,
     "dailyMinutesDown": {
-      "2024-03-12": 997,
+      "2024-03-12": 1011,
       "2024-03-11": 1440,
       "2024-03-10": 1440,
       "2024-03-09": 1440,
