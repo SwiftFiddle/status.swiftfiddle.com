@@ -4,7 +4,7 @@
     "url": "https://swiftfiddle.com/",
     "icon": "https://icons.duckduckgo.com/ip3/swiftfiddle.com.ico",
     "slug": "swiftfiddle-com",
-    "status": "up",
+    "status": "down",
     "uptime": "97.94%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -16,6 +16,7 @@
     "timeMonth": 229,
     "timeYear": 270,
     "dailyMinutesDown": {
+      "2024-07-07": 0,
       "2024-04-26": 66,
       "2024-04-25": 972,
       "2024-04-22": 505,
