@@ -4,6 +4,10 @@ repo: status.swiftfiddle.com
 sites:
   - name: swiftfiddle.com
     url: https://swiftfiddle.com/
+  - name: runner.swift-playground.com
+    url: https://runner.swift-playground.com/
+  - name: lsp.swift-playground.com
+    url: https://lsp.swift-playground.com/
 
 status-website:
   cname: status.swiftfiddle.com
