@@ -59,19 +59,19 @@
     "url": "https://lsp.swift-playground.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lsp.swift-playground.com.ico",
     "slug": "lsp-swift-playground-com",
-    "status": "down",
-    "uptime": "91.07%",
-    "uptimeDay": "91.07%",
-    "uptimeWeek": "91.07%",
-    "uptimeMonth": "91.07%",
-    "uptimeYear": "91.07%",
-    "time": 369,
-    "timeDay": 369,
-    "timeWeek": 369,
-    "timeMonth": 369,
-    "timeYear": 369,
+    "status": "up",
+    "uptime": "85.25%",
+    "uptimeDay": "85.25%",
+    "uptimeWeek": "85.25%",
+    "uptimeMonth": "85.25%",
+    "uptimeYear": "85.25%",
+    "time": 359,
+    "timeDay": 359,
+    "timeWeek": 359,
+    "timeMonth": 359,
+    "timeYear": 359,
     "dailyMinutesDown": {
-      "2024-10-14": 44
+      "2024-10-14": 78
     }
   }
 ]
