@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 256,
-    "timeDay": 250,
-    "timeWeek": 294,
-    "timeMonth": 278,
+    "timeDay": 199,
+    "timeWeek": 274,
+    "timeMonth": 275,
     "timeYear": 262,
     "dailyMinutesDown": {
       "2024-11-23": 15
@@ -25,15 +25,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/runner.swift-playground.com.ico",
     "slug": "runner-swift-playground-com",
     "status": "up",
-    "uptime": "93.20%",
+    "uptime": "93.22%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "93.12%",
     "time": 439,
-    "timeDay": 448,
-    "timeWeek": 414,
-    "timeMonth": 422,
+    "timeDay": 417,
+    "timeWeek": 415,
+    "timeMonth": 421,
     "timeYear": 440,
     "dailyMinutesDown": {
       "2025-08-19": 92,
@@ -88,9 +88,9 @@
     "uptimeMonth": "99.66%",
     "uptimeYear": "99.48%",
     "time": 535,
-    "timeDay": 423,
-    "timeWeek": 428,
-    "timeMonth": 611,
+    "timeDay": 488,
+    "timeWeek": 435,
+    "timeMonth": 610,
     "timeYear": 498,
     "dailyMinutesDown": {
       "2025-10-07": 23,
@@ -108,8 +108,7 @@
       "2024-11-07": 520,
       "2024-11-06": 68,
       "2024-10-22": 69,
-      "2024-10-21": 169,
-      "2024-10-20": 304
+      "2024-10-21": 169
     }
   }
 ]
