@@ -10,9 +10,9 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.99%",
-    "time": 271,
-    "timeDay": 344,
-    "timeWeek": 298,
+    "time": 270,
+    "timeDay": 182,
+    "timeWeek": 297,
     "timeMonth": 265,
     "timeYear": 268,
     "dailyMinutesDown": {
@@ -26,15 +26,15 @@
     "icon": "https://icons.duckduckgo.com/ip3/runner.swift-playground.com.ico",
     "slug": "runner-swift-playground-com",
     "status": "up",
-    "uptime": "95.20%",
+    "uptime": "95.21%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "93.18%",
+    "uptimeYear": "93.29%",
     "time": 424,
-    "timeDay": 491,
-    "timeWeek": 454,
-    "timeMonth": 415,
+    "timeDay": 360,
+    "timeWeek": 443,
+    "timeMonth": 417,
     "timeYear": 424,
     "dailyMinutesDown": {
       "2026-02-20": 168,
@@ -73,8 +73,7 @@
       "2025-05-24": 102,
       "2025-05-23": 163,
       "2025-04-27": 189,
-      "2025-04-26": 220,
-      "2025-04-13": 921
+      "2025-04-26": 220
     }
   },
   {
@@ -89,9 +88,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.76%",
     "time": 473,
-    "timeDay": 497,
-    "timeWeek": 445,
-    "timeMonth": 418,
+    "timeDay": 365,
+    "timeWeek": 425,
+    "timeMonth": 421,
     "timeYear": 493,
     "dailyMinutesDown": {
       "2026-03-01": 39,
