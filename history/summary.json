@@ -25,17 +25,17 @@
     "url": "https://runner.swift-playground.com/",
     "icon": "https://icons.duckduckgo.com/ip3/runner.swift-playground.com.ico",
     "slug": "runner-swift-playground-com",
-    "status": "up",
+    "status": "down",
     "uptime": "95.75%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "96.73%",
+    "uptimeYear": "96.85%",
     "time": 420,
-    "timeDay": 418,
-    "timeWeek": 366,
-    "timeMonth": 375,
-    "timeYear": 415,
+    "timeDay": 272,
+    "timeWeek": 336,
+    "timeMonth": 367,
+    "timeYear": 414,
     "dailyMinutesDown": {
       "2025-06-23": 469,
       "2025-06-30": 27,
@@ -57,7 +57,8 @@
       "2026-01-04": 382,
       "2026-02-20": 168,
       "2026-02-19": 615,
-      "2026-04-30": 92
+      "2026-04-30": 92,
+      "2026-06-22": 0
     }
   },
   {
@@ -69,7 +70,7 @@
     "uptime": "90.27%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "34.07%",
+    "uptimeMonth": "35.53%",
     "uptimeYear": "84.42%",
     "time": 451,
     "timeDay": 461,
