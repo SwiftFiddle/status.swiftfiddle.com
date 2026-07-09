@@ -30,7 +30,7 @@
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "98.69%",
-    "uptimeYear": "98.56%",
+    "uptimeYear": "98.72%",
     "time": 416,
     "timeDay": 474,
     "timeWeek": 349,
@@ -57,17 +57,17 @@
     "url": "https://lsp.swift-playground.com/",
     "icon": "https://icons.duckduckgo.com/ip3/lsp.swift-playground.com.ico",
     "slug": "lsp-swift-playground-com",
-    "status": "up",
-    "uptime": "90.50%",
-    "uptimeDay": "100.00%",
+    "status": "down",
+    "uptime": "90.51%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
-    "uptimeMonth": "92.57%",
+    "uptimeMonth": "94.47%",
     "uptimeYear": "84.38%",
     "time": 451,
-    "timeDay": 530,
-    "timeWeek": 373,
-    "timeMonth": 387,
-    "timeYear": 464,
+    "timeDay": 373,
+    "timeWeek": 354,
+    "timeMonth": 382,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2025-07-10": 24,
       "2025-07-29": 117,
@@ -150,7 +150,8 @@
       "2026-04-17": 1440,
       "2026-04-16": 1211,
       "2026-06-11": 631,
-      "2026-06-29": 244
+      "2026-06-29": 244,
+      "2026-07-09": 0
     }
   }
 ]
