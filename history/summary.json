@@ -25,9 +25,9 @@
     "url": "https://runner.swift-playground.com/",
     "icon": "https://icons.duckduckgo.com/ip3/runner.swift-playground.com.ico",
     "slug": "runner-swift-playground-com",
-    "status": "up",
+    "status": "down",
     "uptime": "96.51%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.58%",
@@ -43,7 +43,8 @@
       "2026-02-19": 615,
       "2026-04-30": 92,
       "2026-06-22": 573,
-      "2026-08-21": 242
+      "2026-08-21": 242,
+      "2026-11-20": 0
     }
   },
   {
@@ -52,7 +53,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/lsp.swift-playground.com.ico",
     "slug": "lsp-swift-playground-com",
     "status": "up",
-    "uptime": "92.11%",
+    "uptime": "92.12%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
